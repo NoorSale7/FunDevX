@@ -32,4 +32,4 @@ for (int i = 0; i < numbers.Length; i++)
 }
 Console.WriteLine($"The maximum number is: {max}");
 Console.WriteLine($"The number of even numbers is: {evenCounter}");
-Console.WriteLine($"The sum of even numbers is: {evenSum}");
+Console.WriteLine($"The sum of even numbers is: {evenSum}"); 
